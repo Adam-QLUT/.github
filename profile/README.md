@@ -1,1 +1,1 @@
-# 齐鲁工业大学Adam战队
+<h1 align="center">齐鲁工业大学Adam战队</h1>
