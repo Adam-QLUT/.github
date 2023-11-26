@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="齐鲁工业大学Adam战队"
-       src="profile/assets/adam-readme.jpeg">
+       src="profile/assets/adam_readme.jpeg">
 </p>
 
 ## 关于战队
