@@ -5,8 +5,8 @@
 <h1 align="center">齐鲁工业大学Adam战队</h1>
 
 <p align="center">
-  <img alt="Alacritty - A fast, cross-platform, OpenGL terminal emulator"
-       src="profile/assets/adam-readme.jped">
+  <img alt="齐鲁工业大学Adam战队"
+       src="profile/assets/adam-readme.jpeg">
 </p>
 
 ## 关于战队
